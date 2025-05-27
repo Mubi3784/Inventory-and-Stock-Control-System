@@ -1,0 +1,3 @@
+1,Samsung A15,40000,SmartPhone
+3,HP Laptop H450,120000,Laptops
+4,Earbuds Pro,3000,Accessories
